@@ -1,2 +1,2 @@
-# AliQuickC.github.io/repair/src
+# AliQuickC.github.io
 интенсив, первый сайт за 3 дня
